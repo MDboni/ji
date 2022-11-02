@@ -1,0 +1,39 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #010101;
+}
+
+header {
+    background-color: #fcdb00;
+    padding: 20px 0px;
+}
+
+.continer {
+    width: 75%;
+    margin: auto;
+
+}
+
+.c_nav {}
+
+.logo {}
+
+.menu {}
+
+.menu ul li a {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+    padding: 0px 20px !important;
+}
+
+.menu ul li:last-child a {
+    padding-right: 0px !important;
+}
+
+.menu ul li a:hover {
+    color: whitesmoke !important;
+}
